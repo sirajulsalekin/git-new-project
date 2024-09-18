@@ -1,2 +1,2 @@
 print("new feature workflow")
-print("feature1")
+print("feature2")
